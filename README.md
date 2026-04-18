@@ -18,3 +18,11 @@
 - `git commit -am`: para modificações podemso usar o am que faz o add e o commit junto
 - `git checkout main`: volta pra branch local
 - `git checkout cor_01`: vai pra branch cor_01
+
+## Fluxo de Trabalho
+1. Criar nova Branch
+2. Aplicar mudanças com commits atômicos
+3. Enviar commits para o repositório remoto
+4. Abrir _pull requests_
+5. Indicar revisores
+6. Após revisão, dar o merge
