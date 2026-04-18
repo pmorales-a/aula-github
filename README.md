@@ -13,3 +13,4 @@
 - `git pull origin main': traz as modiçações no repositóriop remoto para o local (branch: `main`)
 - `git rebase -i HEAD~1`: vai abrir o arquivo do último commit para editar a descrição (trocar o stick por r e fecha -> abre um novo arquivo para realizar a alteração)
 - `git push origin main --force`: push forçado
+- `git checkout -b cor_01`: cria e faz o switch a branch cor_01
