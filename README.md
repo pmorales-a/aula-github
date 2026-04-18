@@ -14,3 +14,8 @@
 - `git rebase -i HEAD~1`: vai abrir o arquivo do último commit para editar a descrição (trocar o stick por r e fecha -> abre um novo arquivo para realizar a alteração)
 - `git push origin main --force`: push forçado
 - `git checkout -b cor_01`: cria e faz o switch a branch cor_01
+- `git commit -am`: para modificações podemso usar o am que faz o add e o commit junto
+- `git checkout main`: volta pra branch local
+- `git checkout cor_01`: vai pra branch cor_01
+
+-`git status`: exibe o status dos arquivos do projeto.
