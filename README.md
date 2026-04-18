@@ -3,6 +3,7 @@
 ## Comandos
 - `git --version`: retorna a versão do git instalado
 - `git clone url`: cria uma cópia local de um repositório remoto
+-`git status`: exibe o status dos arquivos do projeto.
 - `git add .`: Adiciona todos os arquivos/modificações realizadas no próximo commit
 - `git commit -m "..."`: cria o commit com uma mensagem descritiva
 - `git log`: mostra o histórico de commits
@@ -17,5 +18,3 @@
 - `git commit -am`: para modificações podemso usar o am que faz o add e o commit junto
 - `git checkout main`: volta pra branch local
 - `git checkout cor_01`: vai pra branch cor_01
-
--`git status`: exibe o status dos arquivos do projeto.
